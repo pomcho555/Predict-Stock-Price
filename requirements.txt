@@ -1,4 +1,3 @@
 quandl
-torch
 numpy
 
