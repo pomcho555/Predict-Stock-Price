@@ -1,0 +1,4 @@
+quandl
+torch
+numpy
+
