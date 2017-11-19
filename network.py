@@ -32,9 +32,6 @@ class Network(nn.Module):
         predict = self.fc7(out)
         return predict
 
-    def init_hidden(self):
-        return 
-
 #model = Network(1, 100, 50)
 #a = np.array([1.5])
 #a = Variable(torch.from_numpy(a)).float()
