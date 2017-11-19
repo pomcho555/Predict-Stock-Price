@@ -1,4 +1,4 @@
-# Predict Price Stock with PyTorch
+# Predict Stock Price with PyTorch
 
 Let's predict price stock with PyTorch.
 
